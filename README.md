@@ -4,7 +4,7 @@ There are two files in this repository.
 * MDSU_Corpus_with_preprocessing.txt
 
 #### MDSU_Corpus.txt
-MDSU_Corpus.txt includes the original tweet texts and their conrepondant polarities.
+MDSU_Corpus.txt includes the original tweet texts and their corresponding polarities.
 
 #### MDSU_Corpus_with_preprocessing.txt
 To save the time of preprocessing and to alleviate the divergence between different preprocessing methods when comparing with our method, we also offer a version with preprocessed fields.
