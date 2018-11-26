@@ -21,4 +21,4 @@ the English translation of a non-English tweet.
 the preprocessed English translation of a tweet.
 
 ### Contact Information
-For more information about the MDSU Corpus, please contace lyjlyj517@gmail.com.
+For more information about the MDSU Corpus, please contact lyjlyj517@gmail.com.
